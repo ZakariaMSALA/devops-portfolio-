@@ -13,10 +13,10 @@ Je suis un ingénieur DevOps marocain avec 7+ ans d'expérience, spécialisé da
 
 | Projet | Stack | Description |
 |--------|-------|-------------|
-| [CI/CD GitHub Actions](https://github.com/zakaria-devops/ci-cd-github-actions) | GitHub Actions, Node.js | Pipeline CI/CD automatisé |
-| [Terraform AWS VPC](https://github.com/zakaria-devops/terraform-aws-network) | Terraform, AWS | Infrastructure VPC complète |
-| [Kubernetes Helm Demo](https://github.com/zakaria-devops/k8s-helm-demo) | K8s, Helm | Déploiement d’app sur cluster K8s |
-| [Ansible Automation](https://github.com/zakaria-devops/ansible-playbooks) | Ansible | Playbooks pour configuration serveur |
+| [CI/CD GitHub Actions](https://github.com/ZakariaMSALA/ci-cd-github-actions) | GitHub Actions, Node.js | Pipeline CI/CD automatisé |
+| [Terraform AWS VPC](https://github.com/ZakariaMSALA/terraform-aws-network) | Terraform, AWS | Infrastructure VPC complète |
+| [Kubernetes Helm Demo](https://github.com/ZakariaMSALA/k8s-helm-demo) | K8s, Helm | Déploiement d’app sur cluster K8s |
+| [Ansible Automation](https://github.com/ZakariaMSALA/ansible-playbooks) | Ansible | Playbooks pour configuration serveur |
 
 ## 📫 Contact
 
