@@ -1,25 +1,59 @@
-# 💼 DevOps Portfolio – Zakaria Msala
+# 💼 DevOps Portfolio – Zakaria Msala 🇬🇧
 
-Bienvenue sur mon portfolio GitHub DevOps.  
-Je suis un ingénieur DevOps marocain avec 7+ ans d'expérience, spécialisé dans les infrastructures cloud, l'automatisation et les pipelines CI/CD.
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [Featured Projects](#featured-projects)
+- [Contact](#contact)
 
-## 🚀 À propos de moi
+## 🚀 About Me
+I am a Moroccan freelance DevOps Engineer with over 7 years of experience in cloud infrastructure, automation, and CI/CD pipelines.
 
-- 🔧 Compétences : Azure, Docker, Kubernetes, GitLab CI, GitHub Actions, Jenkins, Ansible, Terraform
-- 🌍 Disponibilité : Freelance 100% remote — Europe, Amérique du Nord
-- 🧠 Certifications : Azure AZ-104, MCSA, ITIL v4, CCNA (CKA en cours)
+**Skills:**
+- ☁️ Azure, GCP
+- 🐳 Docker, Kubernetes
+- ⚙️ GitHub Actions, GitLab CI, Jenkins
+- 🛠️ Terraform, Ansible, Shell scripting
 
-## 📂 Projets à venir
+**Certifications:** Azure AZ-104, MCSA, ITIL v4, CCNA, (CKA in progress)
 
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| [CI/CD GitHub Actions](https://github.com/ZakariaMSALA/ci-cd-github-actions) | GitHub Actions, Node.js | Pipeline CI/CD automatisé |
-| [Terraform AWS VPC](https://github.com/ZakariaMSALA/terraform-aws-network) | Terraform, AWS | Infrastructure VPC complète |
-| [Kubernetes Helm Demo](https://github.com/ZakariaMSALA/k8s-helm-demo) | K8s, Helm | Déploiement d’app sur cluster K8s |
-| [Ansible Automation](https://github.com/ZakariaMSALA/ansible-playbooks) | Ansible | Playbooks pour configuration serveur |
+## 🌟 Featured Projects
+- [CI/CD with GitHub Actions](../ci-cd-github-actions)
+- [Terraform AWS VPC](../terraform-aws-network)
+- [Kubernetes Helm Demo](../k8s-helm-demo)
+- [Ansible Playbooks](../ansible-playbooks)
 
-## 📫 Contact
+## 📬 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/zakaria-msala-86758788/)
+- ✉️ Email: msala.zakaria@gmail.com
+- 📄 [My Resume](#)
 
-- 🔗 LinkedIn : [linkedin.com/in/zakaria-msala-86758788/](https://linkedin.com/in/zakaria-msala-86758788/)
-- 📧 Email : msala.zakaria@gmail.com
-- 📄 CV : [Télécharger mon CV](Coming-soon)
+---
+
+# 💼 Portfolio DevOps – Zakaria Msala 🇫🇷
+
+## 📋 Sommaire
+- [À propos](#à-propos)
+- [Projets en vedette](#projets-en-vedette)
+- [Contact](#contact-1)
+
+## 🚀 À propos
+Je suis un ingénieur DevOps freelance marocain avec plus de 7 ans d'expérience dans les infrastructures cloud, l'automatisation et les pipelines CI/CD.
+
+**Compétences :**
+- ☁️ Azure, GCP
+- 🐳 Docker, Kubernetes
+- ⚙️ GitHub Actions, GitLab CI, Jenkins
+- 🛠️ Terraform, Ansible, scripting Shell
+
+**Certifications :** Azure AZ-104, MCSA, ITIL v4, CCNA, (CKA en cours)
+
+## 🌟 Projets en vedette
+- [CI/CD avec GitHub Actions](../ci-cd-github-actions)
+- [Terraform AWS VPC](../terraform-aws-network)
+- [Démo Kubernetes Helm](../k8s-helm-demo)
+- [Playbooks Ansible](../ansible-playbooks)
+
+## 📬 Contact
+- 💼 [LinkedIn](https://linkedin.com/in/zakaria-msala-86758788/)
+- ✉️ Email : msala.zakaria@gmail.com
+- 📄 [Mon CV](#)
