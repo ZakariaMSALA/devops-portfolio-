@@ -21,6 +21,9 @@ I am a Moroccan freelance DevOps Engineer with over 7 years of experience in clo
 - [Terraform AWS VPC](../terraform-aws-network)
 - [Kubernetes Helm Demo](../k8s-helm-demo)
 - [Ansible Playbooks](../ansible-playbooks)
+- [Dockerized Microservices Demo](../dockerized-microservices-demo)
+- [Kubernetes Prod Cluster](../kubernetes-prod-cluster)
+- [Terraform AWS Full Infra](../terraform-aws-full-infra)
 
 ## 📬 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/zakaria-msala-86758788/)
@@ -52,6 +55,9 @@ Je suis un ingénieur DevOps freelance marocain avec plus de 7 ans d'expérience
 - [Terraform AWS VPC](../terraform-aws-network)
 - [Démo Kubernetes Helm](../k8s-helm-demo)
 - [Playbooks Ansible](../ansible-playbooks)
+- [Démo Microservices Docker](../dockerized-microservices-demo)
+- [Cluster Kubernetes Prod](../kubernetes-prod-cluster)
+- [Infrastructure AWS Complète avec Terraform](../terraform-aws-full-infra)
 
 ## 📬 Contact
 - 💼 [LinkedIn](https://linkedin.com/in/zakaria-msala-86758788/)
